@@ -1,3 +1,15 @@
+/*
+artist statement:
+The adjective is "melancholy". After reflecting on what makes me feel melancholy, I realized that the root of it was the loss of my home.
+By this, I don't mean my physical home, rather where my my family and culture is. Due to political shifts, I left where I grew up due to safty concers.
+Despite not feeling exepted where I called "home" I still miss it for what it is. This is my melancholy.
+
+The circular design that I made a theme throughout this project was inspired by one of my favorite musicians, Ethel Cain, and her newst song "Punish".
+She often discusses the complexity of loving home, but unable to return because the concept of what is "home" only exists in the past.
+
+I wanted this project to make the viewer feel cold and alone, but also reflective on how the exceptance of the passage of time can lead to a brighter future. 
+*/
+
 let particles = [];
 let centerX, centerY;
 let startTime;
